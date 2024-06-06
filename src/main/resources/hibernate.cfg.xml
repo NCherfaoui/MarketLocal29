@@ -6,9 +6,9 @@
     <session-factory>
         <!-- Propriétés de connexion à la base de données -->
         <property name="hibernate.connection.driver_class">com.mysql.cj.jdbc.Driver</property>
-        <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/market_local_29</property>
+        <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/marketDB</property>
         <property name="hibernate.connection.username">root</property>
-        <property name="hibernate.connection.password">root</property>
+        <property name="hibernate.connection.password"></property>
 
         <!-- Propriétés SQL -->
         <property name="hibernate.dialect">org.hibernate.dialect.MySQL8Dialect</property>

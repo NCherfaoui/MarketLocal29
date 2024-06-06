@@ -4,27 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9c78af0-e234-43e0-8c98-f3c6922cdd7c" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UML/class_diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UML/use_case.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UML/use_case_V2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/marketlocal29/controller/MarketController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/marketlocal29/dao/OrderDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/marketlocal29/dao/ProducerDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/marketlocal29/dao/ProductDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/marketlocal29/model/Market.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/marketlocal29/model/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/marketlocal29/model/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/marketlocal29/model/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/marketlocal29/utils/Exceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Structure.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b9c78af0-e234-43e0-8c98-f3c6922cdd7c" name="Changes" comment="Create the project structure on intelliJ.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projet_JAVA___Creez_une_Application_de_Gestion_de_Marche_Local_du_Finistere_.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Projet_JAVA___Creez_une_Application_de_Gestion_de_Marche_Local_du_Finistere_.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/marketlocal29/view/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/marketlocal29/view/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/marketlocal29/view/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +119,7 @@
       <workItem from="1717618655483" duration="314000" />
       <workItem from="1717662877200" duration="5093000" />
       <workItem from="1717672813118" duration="1191000" />
-      <workItem from="1717674719772" duration="1037000" />
+      <workItem from="1717674719772" duration="5898000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -146,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717618873733</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Create the project structure on intelliJ.">
+      <option name="closed" value="true" />
+      <created>1717675830030</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717675830030</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,7 +156,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Create the project structure on intelliJ." />
+    <option name="LAST_COMMIT_MESSAGE" value="Create the project structure on intelliJ." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
